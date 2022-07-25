@@ -108,6 +108,7 @@ return packer.startup(function(use)
   }
   use "p00f/nvim-ts-rainbow"
   use "windwp/nvim-ts-autotag"
+  use 'nvim-treesitter/playground'
 
   -- Color
   use "NvChad/nvim-colorizer.lua"
